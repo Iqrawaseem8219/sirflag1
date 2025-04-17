@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f0f0f0;
+  }
+  
+  .flag {
+    width: 400px;
+    height: 240px;
+  }
+ 
+  .red {
+    height: 18%;
+    background-color: #e7162c;
+  }
+  
+  .white {
+    height: 22%;
+    background-color:#ffffff;
+  }
+  
+  .blue {
+    height: 20%;
+    background-color: #0b2379;
+    height: 40%;
+  }
